@@ -1,0 +1,2 @@
+#!/bin/bash
+trintf "%.2f\n" $NUM
